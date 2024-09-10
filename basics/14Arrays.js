@@ -15,3 +15,6 @@ console.log(myArr[2]);
 myArr.unshift(10)
 myArr.shift(9)
 console.log(myArr);
+
+
+
